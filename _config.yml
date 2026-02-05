@@ -60,9 +60,10 @@ plugins:
 author:
   name   : "Richard Kamanga"
   avatar : "/assets/images/4842.jpg"
-  bio    : "Richard Kamanga is a cybersecurity and network security professional with a background in IT security, networking, and systems administration. 
-           "Beyond tech, he writes about everyday life, social responsibility, and the small moments that reveal big lessons. 
-           "He believes thoughtful observation can shape better communities."
+  bio    : > 
+            Richard Kamanga is a cybersecurity and network security professional with a background in IT security, networking, and systems administration. 
+            Beyond tech, he writes about everyday life, social responsibility, and the small moments that reveal big lessons. 
+            He believes thoughtful observation can shape better communities.
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
